@@ -1,0 +1,26 @@
+﻿生成启动时间为 2016/7/11 10:08:43。
+     1>项目“E:\users\administrator\documents\visual studio 2013\Projects\TrafficByCV3.1(1)\TrafficByCV3.1\TrafficByCV3.1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt IntelligentTraffic.cpp
+         IntelligentTraffic.cpp
+     1>D:\Program Files\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\Program Files\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\Program Files\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\users\administrator\documents\visual studio 2013\projects\trafficbycv3.1(1)\trafficbycv3.1\Timer.h(37): warning C4018: “>”: 有符号/无符号不匹配
+     1>IntelligentTraffic.cpp(105): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>IntelligentTraffic.cpp(148): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>IntelligentTraffic.cpp(1160): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\users\administrator\documents\visual studio 2013\projects\trafficbycv3.1(1)\trafficbycv3.1\intelligenttraffic.cpp(807): warning C4715: “IntelligentTraffic::stopIncidentDetect”: 不是所有的控件路径都返回值
+     1>e:\users\administrator\documents\visual studio 2013\projects\trafficbycv3.1(1)\trafficbycv3.1\intelligenttraffic.cpp(875): warning C4715: “IntelligentTraffic::reverseDriveIncidentDetect”: 不是所有的控件路径都返回值
+     1>e:\users\administrator\documents\visual studio 2013\projects\trafficbycv3.1(1)\trafficbycv3.1\intelligenttraffic.cpp(951): warning C4715: “IntelligentTraffic::driveOutOfBorderIncidentDetect”: 不是所有的控件路径都返回值
+     1>e:\users\administrator\documents\visual studio 2013\projects\trafficbycv3.1(1)\trafficbycv3.1\intelligenttraffic.cpp(995): warning C4715: “IntelligentTraffic::pedestrianEntryIncidentDetect”: 不是所有的控件路径都返回值
+     1>e:\users\administrator\documents\visual studio 2013\projects\trafficbycv3.1(1)\trafficbycv3.1\intelligenttraffic.cpp(1039): warning C4715: “IntelligentTraffic::lossIncidentDetect”: 不是所有的控件路径都返回值
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\users\administrator\documents\visual studio 2013\Projects\TrafficByCV3.1(1)\x64\Debug\TrafficByCV3.1.exe" /INCREMENTAL /NOLOGO opencv_world310.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\users\administrator\documents\visual studio 2013\Projects\TrafficByCV3.1(1)\x64\Debug\TrafficByCV3.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\users\administrator\documents\visual studio 2013\Projects\TrafficByCV3.1(1)\x64\Debug\TrafficByCV3.1.lib" /MACHINE:X64 x64\Debug\IntelligentTraffic.obj
+         x64\Debug\TrafficByCV3.1.0.obj
+         TrafficByCV3.1.vcxproj -> E:\users\administrator\documents\visual studio 2013\Projects\TrafficByCV3.1(1)\x64\Debug\TrafficByCV3.1.exe
+     1>已完成生成项目“E:\users\administrator\documents\visual studio 2013\Projects\TrafficByCV3.1(1)\TrafficByCV3.1\TrafficByCV3.1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.51

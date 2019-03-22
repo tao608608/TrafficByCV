@@ -1,0 +1,38 @@
+﻿  IntelligentTraffic.cpp
+e:\qqpcmgr\desktop\trafficbycv_yolo\trafficbycv3.1\mytime.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\qqpcmgr\desktop\trafficbycv_yolo\trafficbycv3.1\Timer.h(37): warning C4018: “>”: 有符号/无符号不匹配
+IntelligentTraffic.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+IntelligentTraffic.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+IntelligentTraffic.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+IntelligentTraffic.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+IntelligentTraffic.cpp(308): warning C4018: “<”: 有符号/无符号不匹配
+IntelligentTraffic.cpp(312): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+IntelligentTraffic.cpp(296): warning C4101: “DescriptorDim”: 未引用的局部变量
+IntelligentTraffic.cpp(1573): warning C4018: “<”: 有符号/无符号不匹配
+  systemConf.cpp
+e:\qqpcmgr\desktop\trafficbycv_yolo\trafficbycv3.1\mytime.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\qqpcmgr\desktop\trafficbycv_yolo\trafficbycv3.1\Timer.h(37): warning C4018: “>”: 有符号/无符号不匹配
+systemConf.cpp(139): warning C4305: “return”: 从“int”到“bool”截断
+systemConf.cpp(347): warning C4305: “return”: 从“int”到“bool”截断
+systemConf.cpp(382): warning C4018: “<”: 有符号/无符号不匹配
+systemConf.cpp(418): warning C4018: “<”: 有符号/无符号不匹配
+systemConf.cpp(476): warning C4018: “<”: 有符号/无符号不匹配
+systemConf.cpp(501): warning C4018: “<”: 有符号/无符号不匹配
+systemConf.cpp(526): warning C4018: “<”: 有符号/无符号不匹配
+systemConf.cpp(551): warning C4018: “<”: 有符号/无符号不匹配
+systemConf.cpp(576): warning C4018: “<”: 有符号/无符号不匹配
+  thread.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  TrafficByCV3.1.0.cpp
+e:\qqpcmgr\desktop\trafficbycv_yolo\trafficbycv3.1\mytime.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\qqpcmgr\desktop\trafficbycv_yolo\trafficbycv3.1\Timer.h(37): warning C4018: “>”: 有符号/无符号不匹配
+TrafficByCV3.1.0.cpp(542): warning C4018: “<”: 有符号/无符号不匹配
+TrafficByCV3.1.0.cpp(565): warning C4018: “<”: 有符号/无符号不匹配
+TrafficByCV3.1.0.cpp(574): warning C4018: “<”: 有符号/无符号不匹配
+TrafficByCV3.1.0.cpp(583): warning C4018: “<”: 有符号/无符号不匹配
+TrafficByCV3.1.0.cpp(592): warning C4018: “<”: 有符号/无符号不匹配
+TrafficByCV3.1.0.cpp(269): warning C4101: “isCon”: 未引用的局部变量
+opencv_world330.lib(opencv_world330.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突

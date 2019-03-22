@@ -1,0 +1,40 @@
+﻿  IntelligentTraffic.cpp
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\mytime.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\Timer.h(37): warning C4018: “>”: 有符号/无符号不匹配
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\mymorph.h(87): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\mymorph.h(359): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+IntelligentTraffic.cpp(140): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+IntelligentTraffic.cpp(342): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+IntelligentTraffic.cpp(1580): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  systemConf.cpp
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\mytime.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\Timer.h(37): warning C4018: “>”: 有符号/无符号不匹配
+systemConf.cpp(47): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+systemConf.cpp(139): warning C4305: “return”: 从“int”到“bool”截断
+systemConf.cpp(347): warning C4305: “return”: 从“int”到“bool”截断
+  thread.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  TrafficByCV3.1.0.cpp
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\mytime.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\Timer.h(37): warning C4018: “>”: 有符号/无符号不匹配
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\yolo_v2_class.hpp(60): warning C4305: “初始化”: 从“double”到“float”截断
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\yolo_v2_class.hpp(83): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\yolo_v2_class.hpp(130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\yolo_v2_class.hpp(542): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\yolo_v2_class.hpp(565): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\yolo_v2_class.hpp(567): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\yolo_v2_class.hpp(583): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+TrafficByCV3.1.0.cpp(275): warning C4101: “isCon”: 未引用的局部变量
+  正在生成代码
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\intelligenttraffic.cpp(1459): warning C4715: “IntelligentTraffic::lossIncidentDetect”: 不是所有的控件路径都返回值
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\intelligenttraffic.cpp(1415): warning C4715: “IntelligentTraffic::pedestrianEntryIncidentDetect”: 不是所有的控件路径都返回值
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\intelligenttraffic.cpp(1371): warning C4715: “IntelligentTraffic::driveOutOfBorderIncidentDetect”: 不是所有的控件路径都返回值
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\intelligenttraffic.cpp(1282): warning C4715: “IntelligentTraffic::reverseDriveIncidentDetect”: 不是所有的控件路径都返回值
+d:\演示项目\trafficbycv_yolo_gpu - v3-tiny\trafficbycv3.1\intelligenttraffic.cpp(1207): warning C4715: “IntelligentTraffic::stopIncidentDetect”: 不是所有的控件路径都返回值
+  All 1771 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TrafficByCV3.1.vcxproj -> D:\演示项目\TrafficByCV_yolo_GPU - v3-tiny\x64\Release\TrafficByCV3.1.exe
+  TrafficByCV3.1.vcxproj -> D:\演示项目\TrafficByCV_yolo_GPU - v3-tiny\x64\Release\TrafficByCV3.1.pdb (Full PDB)
